@@ -3,7 +3,7 @@
 Autonomous Line Follower Robot with Obstacle Avoidance
 ------------------------------------------------------
 Hardware: Raspberry Pi 5, Camera Module 3, L298N Driver
-Author: Melih [Last Name]
+Author: Melih AKAN
 Description: Uses Computer Vision (HSV Thresholding + Histogram) to follow a black line 
 and detect blue obstacles. Implements a PI Controller for smooth steering.
 """
